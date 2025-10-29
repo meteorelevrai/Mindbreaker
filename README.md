@@ -24,9 +24,11 @@ Continue jusqu’à trouver la bonne réponse !
 
 mindbreaker/
 
-├── mindbreaker.exe
+├── LICENSE
 
 ├── main.c
+
+├── Mindbreaker.exe
 
 └── README.md
 
