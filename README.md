@@ -26,9 +26,9 @@ mindbreaker/
 
 ├── LICENSE
 
-├── mindbreaker.exe
-
 ├── main.c
+
+├── Mindbreaker.exe
 
 └── README.md
 
